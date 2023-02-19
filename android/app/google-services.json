@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594894812896",
+    "project_id": "period-tracker-9c816",
+    "storage_bucket": "period-tracker-9c816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594894812896:android:8632b29b3880b226060285",
+        "android_client_info": {
+          "package_name": "com.example.period_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594894812896-983ifmgf5v05a5sde2acc4rlv0t9pjmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ysuz_O5oNUNA1NnRSSXuKvLdswmehIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594894812896-983ifmgf5v05a5sde2acc4rlv0t9pjmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
